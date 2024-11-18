@@ -1,0 +1,11 @@
+APScheduler==3.10.4
+pyaes==1.6.1
+pyasn1==0.6.1
+Pyrogram @ https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.30.zip#sha256=d177c7fe42c830879070614c6c7d42536d62c54506200f5dbdd7b1fbb7c1d24d
+pyromod==3.1.6
+PySocks==1.7.1
+pytz==2024.2
+rsa==4.9
+six==1.16.0
+tzdata==2024.2
+tzlocal==5.2
